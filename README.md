@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React, Redux and Next.js**
 
-- 👨‍💻 All of my projects are available at [http://jeanlima.dev.br/](jeanlima.dev.br)
+- 👨‍💻 All of my projects are available at [jeanlima.dev.br](http://jeanlima.dev.br/)
 
 - 💬 Ask me about **PHP, HTML and CSS3**
 
 - 📫 How to reach me **heylink.me/JeanLiima/**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEgc_oR3hQ/Gq1rqvv9FoPUx0em6HJjQg/watch?utm_content=DAEgc_oR3hQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](My Resume)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAEgc_oR3hQ/Gq1rqvv9FoPUx0em6HJjQg/watch?utm_content=DAEgc_oR3hQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **I am funny and outgoing**
 
