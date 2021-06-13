@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, HTML and CSS3**
 
-- 📫 How to reach me **heylink.me/JeanLiima/**
+- 📫 How to reach me [**heylink.me/JeanLiima/**](heylink.me/JeanLiima/)
 
 - 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAEgc_oR3hQ/Gq1rqvv9FoPUx0em6HJjQg/watch?utm_content=DAEgc_oR3hQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
