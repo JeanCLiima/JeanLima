@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanliima&label=Profile%20views&color=0e75b6&style=flat" alt="jeanliima" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** and **Nest.js**
 
 - 👨‍💻 All of my projects are available at [jeanlima.dev.br](http://jeanlima.dev.br/)
 
