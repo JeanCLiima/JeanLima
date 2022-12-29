@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [jeanlima.dev.br](http://jeanlima.dev.br/)
 
-- 💬 Ask me about **REACT.js, PHP, HTML5 and CSS3**
+- 💬 Ask me about **react.js, PHP, HTML5 and CSS3**
 
 - 📫 How to reach me [**heylink.me/JeanLiima/**](heylink.me/JeanLiima/)
 
