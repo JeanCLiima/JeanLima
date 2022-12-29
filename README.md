@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanliima&show_icons=true&locale=en&layout=compact" alt="jeanliima" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanliima&show_icons=true&locale=en" alt="jeanliima" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanliima&" alt="jeanliima" /></p>
