@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanliima&label=Profile%20views&color=0e75b6&style=flat" alt="jeanliima" /> </p>
 
-- 🌱 I’m currently learning **Next.js** and **Nest.js**
+- 🌱 I’m currently learning **React native** and **Nest.js**
 
-- 👨‍💻 All of my projects are available at [jeanlima.dev.br](http://jeanlima.dev.br/)
-
-- 💬 Ask me about **react.js, PHP, HTML5 and CSS3**
+- 💬 Ask me about **REACT.js, Typescript, NEXT.js, SCSS, HTML5 and CSS3**
 
 - 📫 How to reach me [**heylink.me/JeanLiima/**](heylink.me/JeanLiima/)
 
