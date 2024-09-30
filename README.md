@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **REACT.js, Typescript, NEXT.js, SCSS, HTML5 and CSS3**
 
-- 📫 How to reach me [**heylink.me/JeanLiima/**](heylink.me/JeanLiima/)
+- 📫 How to reach me [**Linkedin/JeanLiima/**](https://www.linkedin.com/in/jeanliima/)
 
 - 📄 Know about my experiences [Resume (EN-gb)](https://drive.google.com/file/d/1dzMtb031EKIMW_xYSZBBkeV-JuzdivAO/view?usp=sharing) [Curriculo (PT-br)](https://drive.google.com/file/d/1mXPj4F2DmR_jCVy2PVhlNnON8uXA3xuU/view?usp=sharing)
 
