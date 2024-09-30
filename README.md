@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [**heylink.me/JeanLiima/**](heylink.me/JeanLiima/)
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAEgc_oR3hQ/Gq1rqvv9FoPUx0em6HJjQg/watch?utm_content=DAEgc_oR3hQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [Resume (EN-gb)](https://drive.google.com/file/d/1dzMtb031EKIMW_xYSZBBkeV-JuzdivAO/view?usp=sharing) [curriculo (PT-br)](https://drive.google.com/file/d/1mXPj4F2DmR_jCVy2PVhlNnON8uXA3xuU/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny and outgoing**
 
